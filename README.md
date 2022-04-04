@@ -8,3 +8,7 @@ conda create --name ENVNAME
 conda activate ENVNAME
 conda install matplotlib
 
+The I added tha file to my GitHub account.
+
+
+
