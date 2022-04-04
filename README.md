@@ -15,6 +15,6 @@ The I added tha file to my GitHub account.
 
 Afrer downloading the file from Jonas I created a new environment:
 
-conda env create -f environment.yml
+conda env create -f environment_from_jonas.yml
 
 
