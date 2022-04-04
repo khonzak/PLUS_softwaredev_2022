@@ -1,0 +1,4 @@
+name: ENV1
+channels:
+  - defaults
+prefix: C:\Users\klara_000\anaconda3\envs\ENV1
