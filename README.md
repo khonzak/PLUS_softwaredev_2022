@@ -15,7 +15,7 @@ Exporting the requirements into a file:
 
 conda env export -- name ENV1 > environmentENV1.yml
 
-The I added thag file to my GitHub account.
+Then I added thag file to my GitHub account.
 
 Afrer downloading the file from Jonas I created a new environment:
 
